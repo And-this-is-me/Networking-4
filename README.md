@@ -1,1 +1,1 @@
-Networking-4 is an iOS SwiftUI project created as a companion for the article 'Simple iOS Networking (Part 4: DELETE Method),' available at https://medium.com/p/2c7accd9c616/edit
+Networking-4 is an iOS SwiftUI project created as a companion for the article 'Simple iOS Networking (Part 4: DELETE Method),' available at https://the-me.medium.com/simple-ios-networking-part-4-delete-method-2c7accd9c616
